@@ -60,6 +60,7 @@ Remember to use this tool responsibly and only on networks and IP addresses you 
 1. **Setup**: 
    - Ensure you have Python 3.7+ installed on your system.
    - Install Nmap on your system if it's not already present.
+   - Create a .env in the directory you have installed the tool in.
 
 2. **Configuration**:
    - In the `.env` file, replace `your_claude_api_key_here` and `your_openai_api_key_here` with your actual API keys.
