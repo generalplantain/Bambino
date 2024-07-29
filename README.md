@@ -84,12 +84,11 @@ Remember to use this tool responsibly and only on networks and IP addresses you 
 
 ## Planned Future Updates
 
+- Adding visual updates to the UI
+- Integration with Shodan
+- Support for mulitple IP analysis
 - Integration with additional threat intelligence feeds
-- Support for bulk IP analysis
 - Enhanced visualization of network paths and relationships
-- Integration with popular SIEM systems
-- API endpoint for programmatic access to the tool's capabilities
-- Support for IPv6 addresses
 - Custom report generation in various formats (PDF, CSV, etc.)
 
 ## Disclaimer
